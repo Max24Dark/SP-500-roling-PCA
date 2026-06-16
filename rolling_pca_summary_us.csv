@@ -1,0 +1,2 @@
+economy,n_stocks,n_days,pc1_mean,pc1_recent_mean,corr_mean,corr_recent_mean,support_rate,tests
+us,97,1870,0.32136060030605057,0.17770616227225866,0.2904413785264404,0.12005273984952292,0.75,8

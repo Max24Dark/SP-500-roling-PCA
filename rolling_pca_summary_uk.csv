@@ -1,0 +1,2 @@
+economy,n_stocks,n_days,pc1_mean,pc1_recent_mean,corr_mean,corr_recent_mean,support_rate,tests
+uk,15,1869,0.313144718248214,0.26311384733477766,0.2440146528113363,0.11611752596185554,0.4,10
