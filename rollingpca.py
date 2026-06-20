@@ -108,7 +108,7 @@ def rollingpca(returns, windowlength, thresholdvar, desiredcomponents):
         cumvar = np.cumsum(evr)
         ncomponentsto90 = np.searchsorted(cumvar, thresholdvar) + 1
         ninetyvariancevalues.append(ncomponentsto90)
-        pc1dirhistory.append(pca.components_[0])
+        pc1dirhistory.append(pc1loadings)
         subspacehistory.append(subspace)
 
         eigenvaluecapture.append({"eigenvalues": eigvals[:desiredcomponents], "explained_variance_ratio": evr[:desiredcomponents]})
