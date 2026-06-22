@@ -19,7 +19,7 @@ Analysed time-varying structure of US equity returns using rolling PCA, subspace
 git clone https://github.com/Max24Dark/SP-500-roling-PCA.git
 cd SP-500-roling-PCA
 pip install -r requirements.txt
-python rollingpca.py
+python rolling_pca.py
 ```
 
 
