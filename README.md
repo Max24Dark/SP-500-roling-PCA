@@ -1,4 +1,4 @@
-Analysed time-varying structure of US equity returns using rolling PCA, subspace angles, and sector loadings to study changes in market dimensionality during financial crises.
+Analysed time-varying structure of US stock equity returns using rolling PCA, subspace angles, and sector loadings to study changes in market dimensionality during financial crises.
 
 # Overview
 - Collected daily adjusted closing prices for a diversified set of US stocks across major sectors.
