@@ -34,5 +34,5 @@ python rolling_pca.py
 
 
 # Insights
-Most market crises are characterised by a more concentrated and lower-dimensional structure, where a single dominant factor explains a larger share of variance leading to more synchronised movements of the stocks.
+The market crises in my sample are characterised by a more concentrated and lower-dimensional structure, where a single dominant factor explains a larger share of variance leading to more synchronised movements of the stocks.
 In times of crisis, I noticed that the subspace produced by the top 3 principal components are stable
